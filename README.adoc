@@ -1,0 +1,3 @@
+== sigturk-bib
+
+Shared bibliography file for all SIGTURK repositories.
